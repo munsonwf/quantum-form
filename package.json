@@ -1,0 +1,23 @@
+{
+  "name": "quantum-form",
+  "version": "0.1.0",
+  "description": "Easy forms with React and Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munsonwf/quantum-form.git"
+  },
+  "keywords": [
+    "react",
+    "form"
+  ],
+  "author": "Wyatt Munson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munsonwf/quantum-form/issues"
+  },
+  "homepage": "https://github.com/munsonwf/quantum-form#readme"
+}
